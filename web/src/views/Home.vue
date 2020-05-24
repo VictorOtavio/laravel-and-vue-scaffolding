@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <nav>
       <router-link to="/">Home</router-link>
     </nav>
@@ -11,6 +11,6 @@
 
 <script>
 export default {
-  name: "Home"
+  name: "Home",
 };
 </script>
